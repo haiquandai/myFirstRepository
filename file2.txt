@@ -1,2 +1,3 @@
 This is file2.txt
 This line is added in local
+This line is added in git
